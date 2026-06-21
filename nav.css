@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: black;
+    
+}
+#bar{
+    height: 16 px;
+    width: 1550px;
+    background-color:white;
+    border:5px solid white ;
+}
+#Logo{
+    color: palevioletred;
+    font-size: 25px;
+}
+a{
+    margin-right: 80px;
+}
+a{
+    text-decoration: none;
+}
+.login-btn{
+      width: 90px;
+    height: 40px;
+      background-color: white;   /* ya transparent */
+    color: black;
+    border: 2px solid black;
+}
+.start-btn{
+      width: 120px;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    border: 2px solid black
+
+}
+
